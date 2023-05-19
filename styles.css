@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.pc{
+	background:whitesmoke;
+}
+img{
+	padding-left:50px;
+	padding-top:25px;
+}
+h1{
+	padding-left:200px;
+}
+#id1{
+	padding-left:250px
+}
+#id2{
+padding-left:90px;	
+}
+button{
+	 margin-left:250px;
+	background:#FF5733;
+	 padding:10px;
+	 border:0px solid #FF5733;
+	border-radius:10px;
+	margin-bottom:5px;
+}
